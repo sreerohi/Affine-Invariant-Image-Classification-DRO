@@ -12,5 +12,7 @@ can lay the foundation stone for adding robustness to more complicated image
 transformation families beyond affine transformations.
 
 References:
+
 https://github.com/sdbuch/refine
+
 https://zablo.net/
