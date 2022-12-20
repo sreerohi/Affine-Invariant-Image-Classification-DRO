@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Citation: "
 authors:
   - family-names: Pulipaka
-    given-names: Sree Rohith Pulipaka
+    given-names: Sree Rohith 
 title: "Affine Invariant Image Classification through DRO"
 version: 1.0.0
 date-released: 2022-12-19
