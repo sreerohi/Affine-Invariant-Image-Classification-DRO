@@ -11,7 +11,7 @@ architecture. Although results of this approach are yet to be promising, this pr
 can lay the foundation stone for adding robustness to more complicated image
 transformation families beyond affine transformations.
 
-Citation:
+BIBTEX:
 
 @software{Pulipaka_Affine_Invariant_Image_2022,
 author = {Pulipaka, Sree Rohith},
