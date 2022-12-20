@@ -11,6 +11,16 @@ architecture. Although results of this approach are yet to be promising, this pr
 can lay the foundation stone for adding robustness to more complicated image
 transformation families beyond affine transformations.
 
+Citation:
+
+@software{Pulipaka_Affine_Invariant_Image_2022,
+author = {Pulipaka, Sree Rohith},
+month = {12},
+title = {{Affine Invariant Image Classification through DRO}},
+version = {1.0.0},
+year = {2022}
+}
+
 References:
 
 [1] https://github.com/sdbuch/refine
