@@ -24,5 +24,4 @@ year = {2022}
 References:
 
 [1] https://github.com/sdbuch/refine
-
 [2] https://zablo.net/
